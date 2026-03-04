@@ -1,5 +1,4 @@
 datasets/
 .venv/
 data/
-venv/
-data/*.csv
+data/*.csvdata/order_products.csv
